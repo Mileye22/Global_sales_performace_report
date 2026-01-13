@@ -4,7 +4,7 @@ This is an end-to-end Power BI business intelligence report analyzing global sal
 
 The goal is to demonstrate business-focused analytics — answering why performance differs, where profitability is created or lost, and how customer behavior impacts revenue.
 
-🎯 Business Objectives
+## Business Objectives
 
 The report was designed to answer the following business questions:
 
@@ -22,7 +22,7 @@ Report Structure
 
 The report is organized into four analytical views:
 
-1️⃣ Executive Summary
+### Executive Summary
 
 High-level KPIs for quick decision-making:
 
@@ -40,7 +40,7 @@ Average Order Value
 
 Purpose: This provide management with a fast snapshot of overall performance.
 
-2️⃣ Sales Performance
+### Sales Performance
 
 Focuses on revenue generation and sales mix:
 
@@ -56,7 +56,7 @@ Key Insight :
 
 Technology products generate the highest revenue and profit per order, despite higher shipping costs.
 
-3️⃣ Operations & Cost
+### Operations & Cost
 
 Analyzes operational efficiency and cost drivers:
 
@@ -76,7 +76,7 @@ Key Insight :
 
 Longer delivery times are associated with declining profit margins and higher shipping costs.
 
-4️⃣ Customer Behavior & Insights
+### Customer Behavior & Insights
 
 This page examines customer loyalty and purchasing patterns:
 
@@ -94,7 +94,7 @@ Key Insights:
 
 Repeat customers contribute a disproportionate share of total revenue, indicating strong lifetime value.
 
-🛠️ Tools & Technologies
+## Tools & Technologies
 SQL - Data Cleaning
 
 Power BI – Data modeling, DAX, visualization
