@@ -22,73 +22,73 @@ Report Structure
 
 The report is organized into four analytical views:
 
-### Executive Summary
+### 1 Executive Summary
 
-High-level KPIs for quick decision-making:
+- High-level KPIs for quick decision-making:
 
-Total Sales
+- Total Sales
 
-Total Profit
+- Total Profit
 
-Total Orders
+- Total Orders
 
-YoY Growth %
+- YoY Growth %
 
-Average Discount
+- Average Discount
 
-Average Order Value
+- Average Order Value
 
 Purpose: This provide management with a fast snapshot of overall performance.
 
-### Sales Performance
+### 2 Sales Performance
 
 Focuses on revenue generation and sales mix:
 
-Sales by Market, Category, Sub-Category
+- Sales by Market, Category, Sub-Category
 
-Sales by Segment (Consumer, Corporate, Home Office)
+- Sales by Segment (Consumer, Corporate, Home Office)
 
-Top Countries by Sales
+- Top Countries by Sales
 
-Avg Sales, Profit & Shipping Cost per Order
+- Avg Sales, Profit & Shipping Cost per Order
 
 Key Insight :
 
 Technology products generate the highest revenue and profit per order, despite higher shipping costs.
 
-### Operations & Cost
+### 3 Operations & Cost
 
 Analyzes operational efficiency and cost drivers:
 
-Average Shipping Cost
+- Average Shipping Cost
 
-Shipping Cost as % of Revenue
+- Shipping Cost as % of Revenue
 
-Average Delivery Time
+- Average Delivery Time
 
-On-Time Delivery Rate
+- On-Time Delivery Rate
 
-Shipping Cost by Delivery Time Interval
+- Shipping Cost by Delivery Time Interval
 
-Profit Margin vs Delivery Time
+- Profit Margin vs Delivery Time
 
 Key Insight :
 
 Longer delivery times are associated with declining profit margins and higher shipping costs.
 
-### Customer Behavior & Insights
+### 4 Customer Behavior & Insights
 
 This page examines customer loyalty and purchasing patterns:
 
-Repeat vs One-Time Customers
+- Repeat vs One-Time Customers
 
-Revenue Contribution by Customer Type
+- Revenue Contribution by Customer Type
 
-Repeat Customer Rate
+- Repeat Customer Rate
 
-Discount Effectiveness vs Loyalty
+- Discount Effectiveness vs Loyalty
 
-Product Categories Driving Repeat Revenue
+- Product Categories Driving Repeat Revenue
 
 Key Insights:
 
