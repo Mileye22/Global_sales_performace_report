@@ -18,7 +18,6 @@ What is the relationship between discounting and customer loyalty?
 
 How do repeat vs one-time customers contribute to revenue?
 
-Report Structure
 
 The report is organized into four analytical views:
 
@@ -92,7 +91,7 @@ This page examines customer loyalty and purchasing patterns:
 
 Key Insights:
 
-Repeat customers contribute a disproportionate share of total revenue, indicating strong lifetime value.
+Repeat customers contribute a high share of total revenue, indicating strong lifetime value.
 
 ## Tools & Technologies
 SQL - Data Cleaning
